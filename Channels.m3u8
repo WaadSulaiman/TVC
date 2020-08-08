@@ -22,3 +22,5 @@ https://roya-live.ercdn.net/roya/roya_1080p.m3u8
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u
 #EXTINF:-12, Kurd Max
 https://5aa8c7549bfa9.streamlock.net:443/liveTrans/ngrp:myStream_all/playlist.m3u8?wowzacaptionlanguages=fra.m3u8
+#EXTINF:-13, MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
