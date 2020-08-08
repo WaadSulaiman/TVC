@@ -1,0 +1,22 @@
+#EXTINF:-1, TRT Kurdi
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+#EXTINF:-2, RUDAW
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+#EXTINF:-3, Kurdistan Tv
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1027977135_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-4, MBC Drama
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
+#EXTINF:-5, Sterk
+http://137.74.205.201/live2/sterk-3mbps.m3u8
+#EXTINF:-6, Dubai Sports3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-7, TRT Turk
+https://tv-trtturk.live.trt.com.tr/master_360.m3u8
+#EXTINF:-8, TRT Musik
+https://tv-trtmuzik.live.trt.com.tr/master_360.m3u8
+#EXTINF:-9, Abu Dhabi Tv
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-10, Roya Tv
+https://roya-live.ercdn.net/roya/roya_1080p.m3u8
+#EXTINF:-11, Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u
