@@ -3,7 +3,7 @@ https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 #EXTINF:-2, RUDAW
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
 #EXTINF:-3, Kurdistan Tv
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1027977135_b1700000_sleng_t64MTA4MHA=.m3u8
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-4, MBC Drama
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
 #EXTINF:-5, Sterk
@@ -24,3 +24,15 @@ https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000
 https://5aa8c7549bfa9.streamlock.net:443/liveTrans/ngrp:myStream_all/playlist.m3u8?wowzacaptionlanguages=fra.m3u8
 #EXTINF:-13, MBC Max HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+#EXTINF:-14, BBC
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/807
+#EXTINF:-15, Cartoon Network Arabic
+https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8
+#EXTINF:-16, Nasa
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-17, Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-18, Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-19, Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
