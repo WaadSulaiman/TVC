@@ -44,3 +44,9 @@ https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 #EXTINF:-23, Red Bull
 https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+#EXTINF:-24, Kurdistan 24
+https://live.karwan.tv/karwan.tv/kurdistan24-tv_1/chunks.m3u8?nimblesessionid=1063588&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDIwIDk6MTI6MjIgUE0maGFzaF92YWx1ZT04Q0M2T2hXTS9tanRnQzMzZk5ZeUp3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-25, Waar
+https://live.karwan.tv/karwan.tv/waar-tv_1/chunks.m3u8?nimblesessionid=1063686&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDIwIDk6MTQ6MjYgUE0maGFzaF92YWx1ZT04LzVrQmgzdGdLOTZERWk2Q2xEYUtRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-26, Kurd Max Show
+http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist_w1090138768_b1667072.m3u8
