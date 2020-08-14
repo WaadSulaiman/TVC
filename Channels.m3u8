@@ -36,3 +36,11 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-19, Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
+#EXTINF:-20, Tom And Jerry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:-21, Al Fallujah
+https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
+#EXTINF:-22, Real Madrid
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-23, Red Bull
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
