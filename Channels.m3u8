@@ -44,23 +44,26 @@ https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 #EXTINF:-23, Red Bull
 https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
-#EXTINF:-24, Kurdistan 24
-https://live.karwan.tv/karwan.tv/kurdistan24-tv_1/chunks.m3u8?nimblesessionid=1063588&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDIwIDk6MTI6MjIgUE0maGFzaF92YWx1ZT04Q0M2T2hXTS9tanRnQzMzZk5ZeUp3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-25, Waar
-https://live.karwan.tv/karwan.tv/waar-tv_1/chunks.m3u8?nimblesessionid=1078683&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDIwIDEwOjU1OjA1IEFNJmhhc2hfdmFsdWU9Z00yTmJLNjI5bjZITzdxZFI5OXhmdz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-26, Kurd Max Show
+#EXTINF:-24, Waar
+http://avenuewtv1.srfms.com:4436/live/waartv2019/playlist.m3u8
+#EXTINF:-25, Kurd Max Show
 http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist_w1090138768_b1667072.m3u8
-#EXTINF:-27, Speda Tv
+#EXTINF:-26, Speda Tv
 http://liveshell.net:1935/live/%20speda084k/chunklist_w1024357891.m3u8
-#EXTINF:-28, National Geographic
+#EXTINF:-27, National Geographic
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-29, Ava Media Tv
-https://vsd74.mycdn.me/dash/stream_661784627872/stream.manifest/sig/SP_w5D761K4/expires/1597529200253/srcIp/95.140.185.52/clientType/0/srcAg/CHROME/mid/1590498696864/stream-medium.jidx?_rnd=202922039
-#EXTINF:-30, Kurdsat Tv
+#EXTINF:-28, Kurdsat Tv
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-31, Kurdmax Music
+#EXTINF:-30, Kurdmax Music
 http://31.14.40.139:1935/music/livestream/chunklist_w1832648738.m3u8
-#EXTINF:-32, TRT Cocuk
+#EXTINF:-31, TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
-#EXTINF:-33, Ezidxan Tv
+#EXTINF:-32, Ezidxan Tv
 http://45.139.184.179/EZIDXANTV/1080/HD/tracks-v1a1/mono.m3u8
+#EXTINF:-33, Badinan Tv
+https://vsd74.mycdn.me/dash/stream_621979765408/stream.manifest/sig/oWKlsIYmbRU/expires/1597593241387/srcIp/95.140.185.52/clientType/0/srcAg/CHROME/mid/1499099700896/stream-high.jidx?_rnd=491144443
+#EXTINF:-34, Dasinya Music
+https://vsd90.mycdn.me/dash/stream_531131992736/stream.manifest/sig/nWZx8EIiO5Y/expires/1597593296354/srcIp/95.140.185.52/clientType/0/srcAg/CHROME/mid/1289408159392/frag-high-1498123.dash
+#EXTINF:-35, Waar
+https://live.karwan.tv/karwan.tv/waar-tv_1/chunks.m3u8?nimblesessionid=1088009&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDIwIDQ6MDM6NDYgUE0maGFzaF92YWx1ZT1KR1hwVjVtSWFCVjg1YUdtT3pWOVZ3PT0mdmFsaWRtaW51dGVzPTIw
+
