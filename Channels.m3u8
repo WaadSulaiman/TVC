@@ -45,7 +45,7 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 #EXTINF:-23, Red Bull
 https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 #EXTINF:-24, Waar
-https://raw.githubusercontent.com/WaadSulaiman/TVC/master/waar.php
+https://live.karwan.tv/karwan.tv/waar-tv_1/chunks.m3u8?nimblesessionid=1097710&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDIwIDY6MDQ6NDIgUE0maGFzaF92YWx1ZT1teGtOb3NCU3NqN01WYmNCcllrQ3FBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-25, Kurd Max Show
 http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist_w1090138768_b1667072.m3u8
 #EXTINF:-26, Speda Tv
@@ -60,9 +60,5 @@ http://31.14.40.139:1935/music/livestream/chunklist_w1832648738.m3u8
 https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
 #EXTINF:-32, Ezidxan Tv
 http://45.139.184.179/EZIDXANTV/1080/HD/tracks-v1a1/mono.m3u8
-#EXTINF:-33, Badinan Tv
-https://vsd63.mycdn.me/dash/stream_621979765408/stream.manifest/sig/bGTGL-4yfEk/expires/1597594276914/srcIp/95.140.185.52/clientType/0/srcAg/CHROME/mid/1499099700896/stream-medium.jidx?_rnd=722543011
-#EXTINF:-34, Dasinya Music
-https://vsd90.mycdn.me/dash/stream_531131992736/stream.manifest/sig/nWZx8EIiO5Y/expires/1597593296354/srcIp/95.140.185.52/clientType/0/srcAg/CHROME/mid/1289408159392/frag-high-1498123.dash
 
 
