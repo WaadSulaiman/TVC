@@ -60,5 +60,7 @@ http://31.14.40.139:1935/music/livestream/chunklist_w1832648738.m3u8
 https://tv-trtcocuk.live.trt.com.tr/master_480.m3u8
 #EXTINF:-32, Ezidxan Tv
 http://45.139.184.179/EZIDXANTV/1080/HD/tracks-v1a1/mono.m3u8
+#EXTINF:-33, BeinSport
+https://akamai2-me.cdn.booyah.live/hls/113137/26961681.m3u8
 
 
